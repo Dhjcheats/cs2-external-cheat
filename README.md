@@ -35,6 +35,18 @@ DH provides Premium & Free CS2 cheats designed for players who value discretion,
 - All ESP features 
 - RCS (50% reduction)
 ```
+---
+
+## 🟢 Status (Live Updates)
+| Anti-Cheat       | Status              |
+|------------------|---------------------|
+| **VAC**          | ![Undetected](https://img.shields.io/badge/Undetected-00CC00?style=flat) | 
+| **VACNet**       | ![Undetected](https://img.shields.io/badge/Undetected-00CC00?style=flat) |
+
+📡 **Live Status Page**: [Check Here](https://dhjcheats.com/en/status) 
+
+---
+
 ## 📥 Installation
 
 1. **Download the Cheat**  
@@ -42,19 +54,19 @@ DH provides Premium & Free CS2 cheats designed for players who value discretion,
    [![Download Free](https://img.shields.io/badge/Download_Free-Click_Here-FF6F00?style=for-the-badge&logo=windows&logoColor=white)](https://dhjcheats.com/en/cheats/cs2/free)
 
 2. **Extract the Files**  
-   - Right-click the downloaded ZIP file → **Extract All** → Choose a folder (e.g., `C:\DH_CS2`).
+   - Right-click the downloaded ZIP file → **Extract All** → Choose a folder (e.g., `C:\DH`).
 
 3. **Launch CS2**  
    - Start Counter-Strike 2 and stay at the **main menu**.
 
 4. **Run the Cheat**  
-   - Open the extracted folder → Right-click `DH_Loader.exe` → **Run as Administrator**.
+   - Open the extracted folder → Right-click `DH.exe` → **Run as Administrator**.
 
 5. **Join a Match**  
-   - Once the cheat confirms **"Status: UNDETECTED"** in the console, join any game mode.
+   - Once the cheat confirms **"Status: UNDETECTED"** in status page, join any game mode.
 
 6. **Good Game!**  
-   - The features will auto-inject. Press `INSERT` to open the menu.
+   - The cheat is external. Press `INSERT` to open the menu.
 
 ---
 
