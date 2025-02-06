@@ -1,7 +1,7 @@
 # 🔒 DH CS2 Cheats & Hacks | Secure & Undetected Hacks
 
 **Your Security. Our Priority.**  
-DH provides premium CS2 cheats designed for players who value discretion, performance, and security.
+DH provides Premium & Free CS2 cheats designed for players who value discretion, performance, and security.
 
 ---
 
