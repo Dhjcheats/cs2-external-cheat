@@ -31,24 +31,11 @@ This repository publishes the current Windows package for the free DH CS2 extern
 
 Looking for the complete feature set? See the [CS2 Premium page](https://dhjcheats.com/en/cheats/cs2/premium).
 
-## Download and verify
+## Download
 
 1. Open the **[latest release](https://github.com/Dhjcheats/cs2-external-cheat/releases/tag/updates)**.
 2. Download the `DH.zip` asset — not GitHub's automatically generated “Source code” archives.
 3. Confirm that the download came from `github.com/Dhjcheats/cs2-external-cheat`.
-4. For the current `V3.2.25` package published on 24 September 2026, verify this SHA-256 digest:
-
-```text
-f7417d54b5ac4b4d854677aa8587586a2c066a49cf38f61d82ab79d9cba0e08b
-```
-
-PowerShell verification command:
-
-```powershell
-Get-FileHash .\DH.zip -Algorithm SHA256
-```
-
-The hash changes whenever the release file changes. If the release page shows a newer version or date, use the digest displayed by GitHub for that asset instead of the value above.
 
 ## System requirements
 
@@ -62,7 +49,7 @@ The hash changes whenever the release file changes. If the release page shows a 
 ## Installation
 
 1. Download `DH.zip` from the latest release.
-2. Scan the archive with your installed security software and verify its SHA-256 digest.
+2. Scan the archive with your installed security software.
 3. Extract the archive to a dedicated folder such as `C:\DH`.
 4. Start Counter-Strike 2 and remain at the main menu.
 5. Open the extracted folder and run `DH.exe` as administrator if Windows requests elevated permissions.
@@ -76,8 +63,8 @@ Do **not** permanently disable antivirus, firewall, or Windows security protecti
 | --- | --- |
 | Menu does not open | Press `INSERT`; on compact keyboards, also try `Fn` + `INSERT`. |
 | Tool closes after a CS2 update | Check the [live status page](https://dhjcheats.com/en/status) and download the newest release. |
-| Archive will not extract | Download `DH.zip` again and compare its SHA-256 digest. |
-| Windows blocks the file | Confirm the source and digest, review the security alert, and contact support if you are unsure. |
+| Archive will not extract | Download `DH.zip` again from the official release page. |
+| Windows blocks the file | Confirm the source, review the security alert, and contact support if you are unsure. |
 | Other issue | Use the [official support page](https://dhjcheats.com/en/support) and include your Windows version plus the exact error message. |
 
 ## Official links
