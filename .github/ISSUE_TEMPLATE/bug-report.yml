@@ -1,0 +1,67 @@
+name: Bug report
+description: Report a reproducible problem with the free DH Windows client
+title: "[Bug]: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping us investigate the problem. For account, payment or access questions, use [official DH support](https://dhjcheats.com/en/support) instead.
+
+  - type: input
+    id: release
+    attributes:
+      label: Release
+      description: Enter the release name displayed on the GitHub download page.
+      placeholder: Example: V3.x.x
+    validations:
+      required: true
+
+  - type: dropdown
+    id: windows
+    attributes:
+      label: Windows version
+      options:
+        - Windows 11
+        - Windows 10
+        - Other
+    validations:
+      required: true
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: What happened?
+      description: Explain what you expected and what happened instead.
+      placeholder: Include the exact error message when available.
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: List the shortest sequence that reproduces the issue.
+      placeholder: |
+        1. Downloaded DH.zip from...
+        2. Extracted the archive...
+        3. Started...
+    validations:
+      required: true
+
+  - type: textarea
+    id: additional
+    attributes:
+      label: Additional context
+      description: Add screenshots or other non-sensitive details if useful.
+
+  - type: checkboxes
+    id: confirmation
+    attributes:
+      label: Confirmation
+      options:
+        - label: I downloaded the package from the official DH GitHub release.
+          required: true
+        - label: I checked the live status page before opening this report.
+          required: true
+        - label: This report contains no password, payment information or private account data.
+          required: true
