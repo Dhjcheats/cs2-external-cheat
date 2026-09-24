@@ -12,7 +12,7 @@ body:
     attributes:
       label: Release
       description: Enter the release name displayed on the GitHub download page.
-      placeholder: Example: V3.x.x
+      placeholder: "Example: V3.x.x"
     validations:
       required: true
 
