@@ -54,17 +54,24 @@
 
 ## Interface preview
 
+V3 interface previews, including Premium features. Availability varies by plan; see the [free version features](#free-version) below.
+
 <p align="center">
-  <img src="./resources/icons/1.png" alt="DH interface — visual settings" width="49%">
-  <img src="./resources/icons/2.png" alt="DH interface — aim and recoil settings" width="49%">
+  <img src="./resources/icons/1.png" alt="V3 interface — visual settings and ESP preview" width="49%">
+  <img src="./resources/icons/2.png" alt="V3 interface — aim and recoil settings" width="49%">
 </p>
 
 <details>
   <summary><strong>View additional interface screens</strong></summary>
   <br>
   <p align="center">
-    <img src="./resources/icons/3.png" alt="DH interface — miscellaneous settings" width="49%">
-    <img src="./resources/icons/4.png" alt="DH interface — configuration profiles" width="49%">
+    <img src="./resources/icons/3.png" alt="V3 interface — miscellaneous settings" width="49%">
+    <img src="./resources/icons/4.png" alt="V3 interface — Skin Changer" width="49%">
+  </p>
+  <p align="center"><strong>Web Radar — client and browser</strong></p>
+  <p align="center">
+    <img src="./resources/icons/webradar-client-v3.png" alt="V3 Web Radar — client settings" width="49%">
+    <img src="./resources/icons/webradar-browser-v3.png" alt="V3 Web Radar — Inferno map and players in the browser" width="49%">
   </p>
 </details>
 
@@ -78,6 +85,10 @@
 | External menu | Open or close the interface with `INSERT` |
 
 For the complete feature set, visit the [CS2 Premium product page](https://dhjcheats.com/en/cheats/cs2/premium).
+
+<p align="center">
+  <a href="https://dhjcheats.com/en/cheats/cs2/premium"><img src="./resources/icons/cs2-cheat-hack-premium-logo.png" alt="CS2 Premium Plan — V3 product cover" width="220"></a>
+</p>
 
 ## System requirements
 
