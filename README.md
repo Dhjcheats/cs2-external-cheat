@@ -109,8 +109,6 @@ For the complete feature set, visit the [CS2 Premium product page](https://dhjch
 6. Run `DH.exe` as administrator if Windows requests elevated permissions.
 7. Press `INSERT` to open or close the menu.
 
-Do **not** permanently disable antivirus, firewall or Windows security protections. Security Cheats may flag game-modification software because of how it interacts with other processes; review a warning instead of automatically ignoring it.
-
 ## Help and support
 
 <table>
