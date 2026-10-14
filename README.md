@@ -5,7 +5,7 @@
 <h1 align="center">DH Free CS2 External</h1>
 
 <p align="center">
-  <strong>The official repository for the free DH external tool for Counter-Strike 2.</strong><br>
+  <strong>The official repository for the free DH external Cheat for Counter-Strike 2.</strong><br>
   Download the current Windows build, check service status and get help from official DH channels.
 </p>
 
@@ -109,7 +109,7 @@ For the complete feature set, visit the [CS2 Premium product page](https://dhjch
 6. Run `DH.exe` as administrator if Windows requests elevated permissions.
 7. Press `INSERT` to open or close the menu.
 
-Do **not** permanently disable antivirus, firewall or Windows security protections. Security tools may flag game-modification software because of how it interacts with other processes; review a warning instead of automatically ignoring it.
+Do **not** permanently disable antivirus, firewall or Windows security protections. Security Cheats may flag game-modification software because of how it interacts with other processes; review a warning instead of automatically ignoring it.
 
 ## Help and support
 
@@ -133,7 +133,7 @@ Do **not** permanently disable antivirus, firewall or Windows security protectio
 | Problem | What to check |
 | --- | --- |
 | Menu does not open | Press `INSERT`; on compact keyboards, also try `Fn` + `INSERT`. |
-| Tool closes after a CS2 update | Check the [live status](https://dhjcheats.com/en/status) and download the newest release. |
+| Cheat closes after a CS2 update | Check the [live status](https://dhjcheats.com/en/status) and download the newest release. |
 | Archive will not extract | Download `DH.zip` again from the official release page. |
 | Windows blocks the file | Confirm the source, review the security alert and contact support if you are unsure. |
 
@@ -152,7 +152,7 @@ Do **not** permanently disable antivirus, firewall or Windows security protectio
 
 - Never share your DH account password or payment information in a GitHub issue.
 - DH does not provide support through unofficial mirrors or reuploaded files.
-- Using third-party game tools may violate the game's terms and can result in account restrictions. You are responsible for deciding whether and where to use this software.
+- Using third-party game Cheats may violate the game's terms and can result in account restrictions. You are responsible for deciding whether and where to use this software.
 - DH is not affiliated with or endorsed by Valve Corporation. Counter-Strike and Steam are trademarks of their respective owners.
 
 ---
