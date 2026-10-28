@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./resources/brand/dh-github-hero-v1.png" alt="DH Free CS2 External — official GitHub repository" width="100%">
+  <img src="./resources/brand/DHJCheats_Banner_X_1500x500.png" alt="DH Free CS2 External — official GitHub repository" width="100%">
 </p>
 
 <h1 align="center">DH Free CS2 External</h1>
