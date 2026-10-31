@@ -17,7 +17,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/platform-Windows_10_%7C_11-0F172A?style=flat-square&logo=windows11&logoColor=white" alt="Windows 10 and 11">
-  <img src="https://img.shields.io/github/downloads/Dhjcheats/cs2-external-cheat/total?style=flat-square&label=downloads&color=A16207" alt="Total downloads">
   <img src="https://img.shields.io/github/last-commit/Dhjcheats/cs2-external-cheat?style=flat-square&label=last%20update&color=334155" alt="Last repository update">
   <img src="https://img.shields.io/github/repo-size/Dhjcheats/cs2-external-cheat?style=flat-square&label=repository&color=334155" alt="Repository size">
 </p>
